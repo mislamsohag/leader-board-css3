@@ -167,3 +167,8 @@ nav{
     color: #fff;
     font-size: 20px;
 }
+@media (max-width:600px) {
+    .footer {
+        font-size: 15px;
+    }
+}
